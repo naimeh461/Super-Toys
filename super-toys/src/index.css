@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.blue-primary{
+  @apply  bg-[#407bff] text-white
+}
+.blue-secondary{
+  @apply  bg-[#0818c5] text-white
+}
+.blue-light{
+  @apply  bg-[#407bff] text-white
+}
+
+.active{
+  @apply  outline-4 outline-white text-[#2daae0] bg-transparent text-white p-2
+}
+.default{
+  @apply outline outline-0 bg-transparent p-2
+}
+#App {
+  font-family: sans-serif;
+  min-height: 100vh;
+}
+
+#footer {
+  position: relative;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+

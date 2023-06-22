@@ -1,0 +1,102 @@
+[
+    {
+      "categories" : "Marvel",
+      "photoUrl": "https://i.ibb.co/FwtNn0D/AACB36-AAEF280-2-2000x.webp",
+      "name": "Iron Man Action Figure",
+      "sellerName": "Marvel Merchandise Store",
+      "sellerEmail": "store@example.com",
+      "price": 19.99,
+      "rating": 4.5,
+      "quantity": 10,
+      "description": "Bring home the armored Avenger with this highly detailed Iron Man action figure. It features incredible articulation and comes with interchangeable hands and repulsor blast effects. Get ready for epic battles with this must-have collectible!"
+    },
+    {
+      "categories" : "Marvel",
+      "photoUrl": "https://i.ibb.co/NsNDKgX/AAAT0007-AAEF0277-2-5000x.jpg",
+      "name": "Captain America Shield Replica",
+      "sellerName": "Superhero Collectibles",
+      "sellerEmail": "collectibles@example.com",
+      "price": 29.99,
+      "rating": 4.8,
+      "quantity": 5,
+      "description": "This high-quality Captain America shield replica is perfect for cosplay or display. It's made of durable materials and features authentic design details. Channel your inner hero with this iconic shield!"
+    },
+    {
+      "categories" : "Marvel",
+      "photoUrl": "https://i.ibb.co/T2SL0df/AADM365-AAEF426-16-2000x.webp",
+      "name": "Spider-Man Web-Shooter",
+      "sellerName": "Web Warriors Emporium",
+      "sellerEmail": "webwarriors@example.com",
+      "price": 14.99,
+      "rating": 4.2,
+      "quantity": 8,
+      "description": "Imitate your friendly neighborhood Spider-Man with this cool web-shooter. It shoots harmless webs and comes with refillable cartridges. Swing into action and have fun!"
+    },
+    {
+      "categories" : "DC",
+      "photoUrl": "https://i.ibb.co/TvfBWvD/AAAK2-AAAD74-3-2000x.webp",
+      "name": "Batman Action Figure",
+      "sellerName" : "Gotham Collectibles",
+      "sellerEmail" : "collectibles@example.com",
+      "price": 19.99,
+      "rating": 4.5,
+      "quantity": 10,
+      "description": "Bring Gotham's Dark Knight home with this highly detailed Batman action figure. It features incredible articulation and comes with various gadgets and accessories. Embark on thrilling adventures with this collectible!"
+    },
+    {
+      "categories" : "DC",
+      "photoUrl": "https://i.ibb.co/NTvfWRS/AAER15-AAEF0299-2-5000x.jpg",
+      "name": "Wonder Woman Figure",
+      "sellerName": "Themyscira Emporium",
+      "sellerEmail": "emporium@example.com",
+      "price": 24.99,
+      "rating": 4.8,
+      "quantity": 8,
+      "description": "Celebrate the Amazonian princess with this finely crafted Wonder Woman figure. It showcases her strength and beauty, capturing her iconic pose. A must-have for any DC fan!"
+    },
+    {
+      "categories" : "DC",
+      "photoUrl": "https://i.ibb.co/qpvVMcS/AADU4-AAEF298-6-2000x.webp",
+      "name": "Superman Action Figure",
+      "sellerName": "Metropolis Toys",
+      "sellerEmail": "metropolistoys@example.com",
+      "price": 21.99,
+      "rating": 4.6,
+      "quantity": 6,
+      "description": "Embrace the power of the Man of Steel with this Superman action figure. It features a highly detailed sculpt and a cloth cape. Display it proudly as a symbol of hope and heroism!"
+    },
+    {
+      "categories" : "Transformers",
+      "photoUrl": "https://i.ibb.co/27GYzWc/AAGE384-AAFE76-3-2000x.webp",
+      "name": "Optimus Prime Figure",
+      "sellerName": "Cybertron Toys",
+      "sellerEmail": "cybertrontoys@example.com",
+      "price": 49.99,
+      "rating": 4.5,
+      "quantity": 10,
+      "description": "Lead the Autobots with this highly detailed Optimus Prime figure. It transforms from a robot to a powerful truck and comes with various weapons and accessories. Defend the universe with this iconic Transformer!"
+    },
+    {
+      "categories" : "Transformers",
+      "photoUrl": "https://i.ibb.co/wzQDq8j/AAGE363-AAFE81-2-2000x.webp",
+      "name": "Bumblebee Figure",
+      "sellerName": "Autobot Collectibles",
+      "sellerEmail": "autobotcollectibles@example.com",
+      "price": 29.99,
+      "rating": 4.8,
+      "quantity": 8,
+      "description": "Join the adventures of Bumblebee with this highly poseable figure. It transforms from a robot to a sleek car and features intricate details. Capture the essence of this beloved Autobot!"
+    },
+    {
+      "categories" : "Transformers",
+      "photoUrl": "https://i.ibb.co/gd5WwqF/AAGE385-AAFE75-5-2000x.webp",
+      "name": "Megatron Figure",
+      "sellerName": "Decepticon Empire",
+      "sellerEmail": "decepticonempire@example.com",
+      "price": 39.99,
+      "rating": 4.6,
+      "quantity": 6,
+      "description": "Unleash the power of evil with this formidable Megatron figure. It transforms from a robot to a powerful weapon and features battle-ready accessories. Conquer the universe with this iconic Decepticon!"
+    }
+  
+  ]
